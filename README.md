@@ -1,8 +1,23 @@
 # Farahani_brainstemsc
+# Structure-function coupling in the human brainstem
 
-This repository include 3 main sections:
+Authors: Asa Farahani, Subhranil Koley, Justine Y. Hansen, Filip Milisav, Marta Bianciardi, Bratislav Misic.
 
-Results
-Data
-Code
+The paper is now available at [bioRxiv]().
 
+## Repository Structure
+### Code
+This folder contains all scripts used in the project.
+
+### Data
+This folder contains brainstem-augmented strcutural and functional connectomes, as well as the some needed files to run the scripts.
+
+### Results
+This folder contains all files generated while running the codes.
+
+#### Utility Scripts
+- `globals.py` - Defines the paths to data directories and some constants used throughout the project.
+- `functions.py` - Contains functions utilized across various scripts in the project.
+
+## Contact Information
+For questions, email: [asa.borzabadifarahani@mail.mcgill.ca](mailto:asa.borzabadifarahani@mail.mcgill.ca).
