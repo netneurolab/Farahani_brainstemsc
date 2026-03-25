@@ -2,14 +2,14 @@
 
 Authors: Asa Farahani, Subhranil Koley, Justine Y. Hansen, María Guadalupe García-Gomar, Kavita Singh, Simone Cauzzo, Firdaus Fabrice Hannanu, Filip Milisav, Zhen-Qi Liu, Vincent Bazinet, Marta Bianciardi, Bratislav Misic.
 
-The paper is now available at [bioRxiv]().
+The paper is now available at [bioRxiv](). --> will be updated by April 2026!
 
 ## Repository Structure
 ### Code
 This folder contains all scripts used in the project.
 
 ### Data
-This folder contains brainstem-augmented strcutural and functional connectomes, as well as the some needed files to run the scripts. As some files are more than 50 M, we include them only at the [OSF](https://osf.io/tqs64/overview) directory.
+This folder contains brainstem-augmented strcutural and functional connectomes, as well as the some needed files to run the scripts. As some files are more than 50M, we include them only at the [OSF](https://osf.io/tqs64/overview) directory.
 
 ### Results
 This folder contains all files generated while running the codes.
