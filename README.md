@@ -1,4 +1,3 @@
-# Farahani_brainstemsc
 # Structure-function coupling in the human brainstem
 
 Authors: Asa Farahani, Subhranil Koley, Justine Y. Hansen, María Guadalupe García-Gomar, Kavita Singh, Simone Cauzzo, Firdaus Fabrice Hannanu, Filip Milisav, Zhen-Qi Liu, Vincent Bazinet, Marta Bianciardi, Bratislav Misic.
