@@ -10,7 +10,7 @@ The paper is now available at [bioRxiv]().
 This folder contains all scripts used in the project.
 
 ### Data
-This folder contains brainstem-augmented strcutural and functional connectomes, as well as the some needed files to run the scripts. As some files are more than 50 M, we include them only at the [Zenodo]() directory.
+This folder contains brainstem-augmented strcutural and functional connectomes, as well as the some needed files to run the scripts. As some files are more than 50 M, we include them only at the [OSF](https://osf.io/tqs64/overview) directory.
 
 ### Results
 This folder contains all files generated while running the codes.
