@@ -1,0 +1,33 @@
+Median Raphe nucleus
+Periaqueductal Gray
+Substantia Nigra-subregion1
+Substantia Nigra-subregion2
+Red nucleus-subregion1
+Red Nucleus-subregion2
+Mesencephalic Reticular formation
+Cuneiform
+Pedunculotegmental nuclei
+Isthmic Reticular formation
+Laterodorsal Tegmental Nucleus - Central Gray of the rhombencephalon
+Pontine Reticular Nucleus, Oral Part - Pontine Reticular Nucleus Caudal Part
+Locus Coeruleus
+Subcoeruleus nucleus
+Inferior Olivary Nucleus
+Superior Colliculus
+Inferior Colliculus
+Ventral Tegmental Area-Parabrachial Pigmented Nucleus
+Microcellular Tegmental Nucleus -Parabigeminal nucleus
+Lateral Parabrachial Nucleus
+Medial Parabrachial Nucleus
+Vestibular nuclei complex
+Parvicellular Reticular nucleus alpha-part
+Superior Olivary Complex
+Superior Medullary Reticular formation
+Viscero-Sensory Motor nuclei complex
+Inferior Medullary Reticular formation
+Raphe Magnus
+Raphe Obscurus
+Raphe Pallidus
+Caudal-Rostral Linear Raphe
+Dorsal raphe
+Paramedian Raphe nucleus
