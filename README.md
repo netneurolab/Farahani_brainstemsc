@@ -2,7 +2,7 @@
 
 Authors: Asa Farahani, Subhranil Koley, Justine Y. Hansen, María Guadalupe García-Gomar, Kavita Singh, Simone Cauzzo, Firdaus Fabrice Hannanu, Filip Milisav, Zhen-Qi Liu, Vincent Bazinet, Marta Bianciardi, Bratislav Misic.
 
-The paper is now available at [bioRxiv](). --> will be updated by April 2026!
+The paper is now available at [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.05.716603v1).
 
 ## Repository Structure
 ### Code
